@@ -24,4 +24,12 @@ In this project we are providing a proposal for a small space startup that inclu
      - Restricts the movement of intellectual property.
 
  
-*links to other repos
+# Repositories
+
+[Documentation](https://github.com/GSD-Solutions-Group/Documentation)
+
+[Scripts-and-Tools](https://github.com/GSD-Solutions-Group/Scripts-and-Tools)
+
+[Presentation-and-ProjectOrganization](https://github.com/GSD-Solutions-Group/Presentation-and-ProjectOrganization)
+
+[demo-repository](https://github.com/GSD-Solutions-Group/demo-repository)
