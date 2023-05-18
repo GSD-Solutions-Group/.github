@@ -3,7 +3,7 @@
 # ***Members***
 | Raheem Reed  | Colin Wilde  | Benjamin Hobbs  | Natasha Siramarco |
 | ------------- | ------------- | ------------- | ------------- |
-| [Linkedin Profile](https://www.linkedin.com/in/raheem-reed-8a7649183/)   | [Linkedin Profile](https://www.linkedin.com/in/colin-wilde-748718209/)  | [Linkedin Profile](https://www.linkedin.com/in/benjaminshobbs/)   | [Linkedin Profile](www.linkedin.com/in/natasha-siramarco)  |
+| [Linkedin Profile](https://www.linkedin.com/in/raheem-reed-8a7649183/)   | [Linkedin Profile](https://www.linkedin.com/in/colin-wilde-748718209/)  | [Linkedin Profile](https://www.linkedin.com/in/benjaminshobbs/)   | [Linkedin Profile](https://www.linkedin.com/in/natasha-siramarco-31a733162)  |
 | [Github Profile](https://github.com/reedraheem)  | [GitHub Profile](https://github.com/wildedcolin)  | [GitHub Profile](https://github.com/benjamin-s-hobbs)  | [Github Profile](https://github.com/nsiramarco) |
 
 
